@@ -15,4 +15,5 @@ Te dejo la lista y mi primera contribución.
 
 |Nombre|Usuario de Github|Red social más utilizada|
 |------|-----------------|------------------------|
-|Amin Espinoza|aminespinoza10|[Linkedin](https://www.linkedin.com/in/aminespinoza/)|
+
+|Kevin Sierra|iSantiDev|[Linkedin](https://www.linkedin.com/in/isantidev)|
