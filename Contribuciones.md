@@ -1,6 +1,6 @@
 # Lista de contribuidores a este repositorio.
 
-¿Estás haciendo tu curso de Git y Github en Platzi? 
+¿Estás haciendo tu curso de Git y Github en Platzi?
 ¡Crea por medio de un Pull Request una actualización a este documento!
 
 Actualiza la información de este documento con un formato como el siguiente
@@ -13,7 +13,7 @@ Te dejo la lista y mi primera contribución.
 
 ## Lista de contribuciones a este repositorio.
 
-|Nombre|Usuario de Github|Red social más utilizada|
-|------|-----------------|------------------------|
+| Nombre | Usuario de Github | Red social más utilizada |
+| ------ | ----------------- | ------------------------ |
 
-|Kevin Sierra|iSantiDev|[Linkedin](https://www.linkedin.com/in/isantidev)|
+|Kevin Sierra Rodriguez|iSantiDev|[Linkedin](https://www.linkedin.com/in/isantidev)|
